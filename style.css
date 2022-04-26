@@ -3,7 +3,8 @@
 body {
   maging: 0 auto;
   background-image: url("https://freerangestock.com/sample/53487/background-music-represents-sound-track-and-abstract.jpg");
-  backgroud-size: cover;
+  background-repeat: no-repeat;
+   background-size: cover;
 }
 
 h1 {
@@ -53,3 +54,4 @@ kbd {
   box-shadow: #ffd60a;
   color: #ffd60a;
 }
+
